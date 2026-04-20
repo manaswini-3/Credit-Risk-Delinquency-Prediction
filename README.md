@@ -62,7 +62,7 @@ A Logistic Regression model is used to predict delinquency probability based on 
 ---
 
 ## 🔹 Project Report
-[Download Full Report](./Summaryreport.doc)
+[Download Full Report](./Summaryreport.docx)
 
 ---
 
