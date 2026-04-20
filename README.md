@@ -16,6 +16,11 @@ Target Variable:
 - Delinquent_Account (Yes/No)
 
 ---
+## 🔹 Project Report
+[Download Full Report](./Summaryreport.pdf)
+
+---
+
 
 ## 🔹 Key Steps Performed
 - Exploratory Data Analysis (EDA)
